@@ -22,4 +22,10 @@
 17. int status;
 18. Student
 19. 2 parameters: "string" and "double"
-20. 
+20. Yes
+21. public Pet(String petsName)
+    {
+        name=petsName;
+    }
+22. System.out.println(month + day + year)
+23. 
