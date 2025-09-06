@@ -31,4 +31,15 @@
 23. The difference between the headers is the name
     The difference between both bodies is that they return 2 different things
 24. "What is my current balance?"
-25. 
+25. The return statement doesn't have to be changed for the code to compile
+    You can give it whatever name you want, as long as you enter a valid code.
+27. It says missing return statement
+28. The main difference between them is that they both have different return types
+31. /**
+    *Increase score by the given number of points.
+    */
+   public void increaseScore(int points)
+   {
+       //Increase score by the value of points
+       score = score + points
+   }
