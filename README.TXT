@@ -28,4 +28,7 @@
         name=petsName;
     }
 22. System.out.println(month + day + year)
-23. 
+23. The difference between the headers is the name
+    The difference between both bodies is that they return 2 different things
+24. "What is my current balance?"
+25. 
